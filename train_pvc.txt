@@ -1,5 +1,3 @@
-/content/ecg/obj/CV005C-1_3_png.rf.475368291042b62aaa0751e248f006b2.jpg
-/content/ecg/obj/CV071P-5_3_png.rf.1ed23e8712f69de7b9086579e5415399.jpg
 /content/ecg/obj/CV071P-5_3_png.rf.897a26370c07b40de2a7e5c0e9c2d0f3.jpg
 /content/ecg/obj/CV114P-2_3_png.rf.0f6fbfefa83d31d7bf23bcbb38368751.jpg
 /content/ecg/obj/CV114P-2_3_png.rf.d133e4d8d42c2e514e7bcd9302488587.jpg
@@ -19,5 +17,3 @@
 /content/ecg/obj/CV300C-4_3_png.rf.320a632af7111b114a76a453fbb52fa4.jpg
 /content/ecg/obj/CV300C-5_3_png.rf.9410cb7a416ca792c6e681eeeb9f3f2d.jpg
 /content/ecg/obj/CV302C-5_3_png.rf.2ea398564237da192aa67b3dc3e9f38e.jpg
-/content/ecg/obj/CV339C-2_3_png.rf.4920ed858643adc7657d68cb904aa776.jpg
-/content/ecg/obj/CV339C-2_3_png.rf.69f555b4fa5adf2d35122d1f42d38552.jpg
